@@ -6,5 +6,6 @@ public class Application {
 	String teste1 = "dig";
 	String teste2 = "teteu";
 	String teste3 = "lazaro";
+	int idade = 20; 
 	
 }
